@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+main .card .card-body {
+  text-align: center;
+}
+
+.card-group {
+  align-items: center;
+}
+
+.card-group .card {
+  align-items: center;
+  height: 50%;
+  width: 50%;
+}
+
+.card-group .card img {
+  align-items: center;
+  height: 50%;
+  width: 50%;
+}
+
+.footer-style {
+  padding-top: 50px;
+  background-color: #524E4E;
+  color: #ffff;
+}
+
+.footer-style .container .row .footer-col h3 {
+  margin-bottom: 30px;
+  font-weight: 800;
+}
+
+.footer-style .container .row .footer-col p {
+  color: #ffff;
+}
+
+.footer-style .container .row .footer-col .list-inline img {
+  padding: 5px;
+  width: 10%;
+  height: auto;
+}
